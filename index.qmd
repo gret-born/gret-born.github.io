@@ -1,5 +1,18 @@
 ---
-title: "gret-born.github.io"
+title: "Greta Bornmann"
+image: media/Greta.Headshot (1).jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 10cm
+  links:
+  - icon: github
+    href: https://github.com/gret-born
+    target: blank
+  - text: Email
+    icon: envelope
+    href: mailto:gretabornmann277@gmail.com
 ---
 
 This is a Quarto website.
