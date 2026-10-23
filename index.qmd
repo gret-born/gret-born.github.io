@@ -15,6 +15,34 @@ about:
     href: mailto:gretabornmann277@gmail.com
 ---
 
+# This is header1
+
+## This is header2
+
+### This is header3
+
+This is a paragraph, it will be about me. Welcome!
+
+- this
+
+- is
+
+- an
+
+- unorder
+
+- list
+
+1.  This
+
+2.  is
+
+3.  an
+
+4.  ordered
+
+5.  list
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

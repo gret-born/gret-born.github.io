@@ -1,1 +1,27 @@
 /* css styles */
+h1, p {
+  color :navy;
+}
+
+h2 {
+  color:lightblue;
+}
+
+h3 {
+  color:black;
+  font-style: italic;
+  
+}
+
+body {
+  background-color :lightyellow;
+}
+
+ol, ul {
+  color:blue;
+  font-style:italic;
+}
+
+a {
+  color:gold;
+}

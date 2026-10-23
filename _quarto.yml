@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Greta Bornmann"
+  ###title: "Greta Bornmann"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: https://github.com/dashboard
+        target: blank
 
 format:
   html:

@@ -1,14 +1,35 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "About this site\nDownload PDF file.\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Greta Bornmann",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a paragraph, it will be about me. Welcome!\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#this-is-header2",
+    "href": "index.html#this-is-header2",
+    "title": "Greta Bornmann",
+    "section": "",
+    "text": "This is a paragraph, it will be about me. Welcome!\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "media/resume.html",
+    "href": "media/resume.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
