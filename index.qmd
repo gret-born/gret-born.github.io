@@ -21,7 +21,9 @@ about:
 
 ### This is header3
 
-This is a paragraph, it will be about me. Welcome!
+Hi! I am an Environmental Studies student at Chaminade University while also pursuing a Data Science and Business Entrepreneurship minor! I am passionate about helping the world become a better place with both my love for helping others and the environment.
+
+My favorite things to do are surf, snowboard, rock climb, and paint! I also enjoying going to the beach and SHELLING. I have a small jewelry business called She Shells, check it out! :)
 
 - this
 
@@ -46,7 +48,3 @@ This is a paragraph, it will be about me. Welcome!
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

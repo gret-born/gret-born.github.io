@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - sheshells.qmd
       - resume.qmd
       - icon: github
         href: https://github.com/dashboard

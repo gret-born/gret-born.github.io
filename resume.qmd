@@ -8,7 +8,7 @@ About this site
 
 {{< pdf media/GRETABORNMANN.png width=100% height=800 >}}
 
-![](media/GRETA BORNMANN.png)
+![](media/GRETA%20BORNMANN.png)
 
 ```{r}
 1 + 1

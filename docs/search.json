@@ -11,19 +11,19 @@
     "href": "index.html",
     "title": "Greta Bornmann",
     "section": "",
-    "text": "This is a paragraph, it will be about me. Welcome!\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I am an Environmental Studies student at Chaminade University while also pursuing a Data Science and Business Entrepreneurship minor! I am passionate about helping the world become a better place with both my love for helping others and the environment.\nMy favorite things to do are surf, snowboard, rock climb, and paint! I also enjoying going to the beach and SHELLING. I have a small jewelry business called She Shells, check it out! :)\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#this-is-header2",
     "href": "index.html#this-is-header2",
     "title": "Greta Bornmann",
     "section": "",
-    "text": "This is a paragraph, it will be about me. Welcome!\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I am an Environmental Studies student at Chaminade University while also pursuing a Data Science and Business Entrepreneurship minor! I am passionate about helping the world become a better place with both my love for helping others and the environment.\nMy favorite things to do are surf, snowboard, rock climb, and paint! I also enjoying going to the beach and SHELLING. I have a small jewelry business called She Shells, check it out! :)\n\nthis\nis\nan\nunorder\nlist\n\n\nThis\nis\nan\nordered\nlist\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "She Shells Jewlery",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
@@ -33,5 +33,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "sheshells.html",
+    "href": "sheshells.html",
+    "title": "She Shells Jewlery",
+    "section": "",
+    "text": "Based off of the classic tongue twistier “She sells seashells by the seashore”, She Shells is a small business owned by me! I collect the shells locally and make all the jewelry myself. I started off doing this because I could not find exactly what I wanted, so I made it! After getting compliments from friends and coworkers, I signed up for two “pop-up” events and they were a success! I now make jewelry on the side and am currently pursuing bangle making.\n\n1 + 1\n\n[1] 2"
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "She Shells Jewlery"
+---
+
+Based off of the classic tongue twistier "She sells seashells by the seashore", She Shells is a small business owned by me! I collect the shells locally and make all the jewelry myself. I started off doing this because I could not find exactly what I wanted, so I made it! After getting compliments from friends and coworkers, I signed up for two "pop-up" events and they were a success! I now make jewelry on the side and am currently pursuing bangle making.
+
+```{r}
+1 + 1
+```
